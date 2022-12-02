@@ -29,6 +29,10 @@ export function topThreeElvesCalories(input) {
       currentElfLoad += parseInt(currentItem);
     }
   }
-  return maxLoads.sort().reverse().slice(0,3).reduce((a, b) => a + b);
+  return maxLoads
+    .sort()
+    .reverse()
+    .slice(0,3)
+    .reduce((a, b) => a + b);
 };
 
