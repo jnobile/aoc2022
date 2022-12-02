@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Advent of Code 2022",
     "main": "index.js",
+    "type": "module",
     "scripts": {
         "test": "mocha day-**/test.js"
     },
