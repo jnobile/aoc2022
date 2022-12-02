@@ -2274,4 +2274,3 @@ describe("Total Calories Carried", () => {
     strictEqual(topThreeElvesCalories(input), answer);
   });
 });
-
