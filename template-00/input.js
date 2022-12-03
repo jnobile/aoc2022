@@ -1,6 +1,3 @@
-let input = `
-`;
-
 export function getPartOneSolution(){
     return 1;
 }
@@ -10,5 +7,9 @@ export function getPartTwoSolution(){
 }
 
 export function getInput() {
-    return input;
+    return `
+put
+input
+here
+`;
 }
