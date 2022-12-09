@@ -7,9 +7,9 @@ export function getPartTwoSolution(){
 }
 
 export function getInput() {
-    return `
-put
-input
-here
-`;
+    return ``;
+}
+
+export function getExampleInput() {
+    return ``;
 }

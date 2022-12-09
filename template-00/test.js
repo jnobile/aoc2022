@@ -1,5 +1,5 @@
 import { strictEqual } from "assert";
-import { getInput, getPartOneSolution, getPartTwoSolution } from "./input.js";
+import { getInput, getExampleInput, getPartOneSolution, getPartTwoSolution } from "./input.js";
 import { partOne, partTwo } from "./solution.js";
 
 let input = getInput();
